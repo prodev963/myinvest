@@ -1,0 +1,1 @@
+insert into role_entity(id, role_enum) values (1, 'USER');
